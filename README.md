@@ -19,6 +19,12 @@ MailSync Engine is a backend application that synchronizes email data from Outlo
 
 ### 1. Setup
 
+Clone the repo from the following:
+```bash
+git clone https://github.com/sammsulhoq/mailsync-engine
+cd mailsync-engine
+```
+
  Create a `.env` file in the root directory with the following content:
  ```bash
  PORT=5000
